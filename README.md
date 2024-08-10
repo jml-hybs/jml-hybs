@@ -1,5 +1,10 @@
-I am Jomel Jim D. Doña
-=======================================A Teacher and Web Developer---------------------------I'm fascinated with computers and technologies ever since I was in high-school but didn't have any idea about programming at first. When 2020 started, I finally have the time to learn about programming especially web development. Started slow but motivated and eager, I work my way through Web Development courses from HTML, CSS and JavaScript. I then set a goal to learn the MERN stack. After learning few more technologies like Firebase and Svelte and doing projects I was hooked.* 🌍  I'm based in Philippines* 🖥️  See my portfolio at [JDoña](http://portfolio-hybs.firebaseapp.com/)* ✉️  You can contact me at [jomeljim17@gmail.com](mailto:jomeljim17@gmail.com)* 🚀  I'm currently working on [ClimbsPh (In Progress)](http://climbsph.web.app/)* 🧠  I'm learning Ubuntu Server/Self Hosting (https://github.com/awesome-selfhosted/awesome-selfhosted) and Stable Diffusion (https://github.com/AUTOMATIC1111/stable-diffusion-webui)* ⚡  I still love teaching!
+Hi 👋 My name is I am Jomel Jim D. Doña
+=======================================
+
+A Teacher and Web Developer
+---------------------------
+
+I'm fascinated with computers and technologies ever since I was in high-school but didn't have any idea about programming at first. When 2020 started, I finally have the time to learn about programming especially web development. Started slow but motivated and eager, I work my way through Web Development courses from HTML, CSS and JavaScript. I then set a goal to learn the MERN stack. After learning few more technologies like Firebase and Svelte and doing projects I was hooked.* 🌍  I'm based in Philippines* 🖥️  See my portfolio at [JDoña](http://portfolio-hybs.firebaseapp.com/)* ✉️  You can contact me at [jomeljim17@gmail.com](mailto:jomeljim17@gmail.com)* 🚀  I'm currently working on [ClimbsPh (In Progress)](http://climbsph.web.app/)* 🧠  I'm learning Ubuntu Server/Self Hosting (https://github.com/awesome-selfhosted/awesome-selfhosted) and Stable Diffusion (https://github.com/AUTOMATIC1111/stable-diffusion-webui)* ⚡  I still love teaching!
 
 ### Skills
 
