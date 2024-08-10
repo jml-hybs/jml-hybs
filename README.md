@@ -4,7 +4,8 @@ Hi 👋 My name is I am Jomel Jim D. Doña
 A Teacher and Web Developer
 ---------------------------
 
-I'm fascinated with computers and technologies ever since I was in high-school but didn't have any idea about programming at first. When 2020 started, I finally have the time to learn about programming especially web development. Started slow but motivated and eager, I work my way through Web Development courses from HTML, CSS and JavaScript. I then set a goal to learn the MERN stack. After learning few more technologies like Firebase and Svelte and doing projects I was hooked.
+I've been fascinated by computers and technology since high school but had no idea about programming at first.
+When 2020 started, I finally had the time to learn programming, especially web development. Starting slowly but motivated and eager, I worked my way through web development courses covering HTML, CSS, and JavaScript. I then set a goal to learn the MERN stack. After learning additional technologies like Firebase and Svelte and completing projects, I was hooked.
 
 *   ⚡  I still love teaching!
 *   🚀  I'm currently working on [ClimbsPh (In Progress)](http://climbsph.web.app/) A mounting climbing Social Media App for Filipinos.
