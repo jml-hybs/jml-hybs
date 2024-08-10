@@ -4,13 +4,14 @@ Hi 👋 My name is I am Jomel Jim D. Doña
 A Teacher and Web Developer
 ---------------------------
 
-I've been fascinated by computers and technology since high school but had no idea about programming at first.
+I've been fascinated by computers and technology since high school but had no idea about programming at first and started hacking consoles as a hobby.
 When 2020 started, I finally had the time to learn programming, especially web development. Starting slowly but motivated and eager, I worked my way through web development courses covering HTML, CSS, and JavaScript. I then set a goal to learn the MERN stack. After learning additional technologies like Firebase and Svelte and completing projects, I was hooked.
 
-*   ⚡  I still love teaching!
+*   ✨  I still love teaching!
 *   🚀  I'm currently working on [ClimbsPh (In Progress)](http://climbsph.web.app/) A mounting climbing Social Media App for Filipinos.
 *   🧠  I'm learning [Ubuntu Server/Self Hosting](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and
-*   🧠  [Stable Diffusion]((https://github.com/AUTOMATIC1111/stable-diffusion-webui))
+*   🧠  [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+*   ⚡  Will be diving on Arduino 🤖 and RaspberryPi 🍓 in the future.
 *   🖥️  See my portfolio at [JDoña](http://portfolio-hybs.firebaseapp.com/)
 *   ✉️  You can contact me at [jomeljim17@gmail.com](mailto:jomeljim17@gmail.com)
 
